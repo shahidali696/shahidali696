@@ -1,6 +1,6 @@
 ## Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, Shahid Ali Here.
 <be>
-I'm a System Analyst with over 5 years of experience specializing in ERP system development, I’ve mastered the MERN stack and comprehensive automation. I thrive on tackling challenging projects and embracing continuous learning opportunities. My goal is to leverage state-of-the-art technologies to drive innovation within the company.
+I'm a Software Engineer & System Analyst with over 5 years of experience specializing in ERP system development, I’ve mastered the MERN stack and comprehensive automation. I thrive on tackling challenging projects and embracing continuous learning opportunities. My goal is to leverage state-of-the-art technologies to drive innovation within the company.
 <be>
 <p align="center">
 	<a href="https://www.linkedin.com/in/shahidali696/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to get started with development.
 - 📫 How to reach me: shahid696ali@gmail.com or <a href="https://www.linkedin.com/in/shahid-ali696/">Linkedin</a>
 - ⚡ Fun fact: I think alot 😄
-- Student of Bachelors of Computer Science 😎.
 ## 🔧 I am passionate about leading technical teams and have extensive expertise in:
 
 </br>
